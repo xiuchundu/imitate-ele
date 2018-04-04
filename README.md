@@ -1,5 +1,5 @@
 
-## 仿饿了么APP
+## Vue.js高仿仿饿了么APP
 
 
 1、本实例是用vue-cli提供的webpack模板构建。
@@ -8,7 +8,7 @@
 
 3、页面滚动使用better-scroll插件。
 
-##效果
+## 效果
 
 ![](https://im3.ezgif.com/tmp/ezgif-3-7955336032.gif)
 

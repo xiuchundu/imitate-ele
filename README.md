@@ -1,27 +1,27 @@
-# sell
 
-> sell app
+## 仿饿了么APP
+
+
+1、本实例是用vue-cli提供的webpack模板构建。
+
+2、CSS代码使用了Stylus编写。
+
+3、页面滚动使用better-scroll插件。
+
+##效果
+
+![](https://im3.ezgif.com/tmp/ezgif-3-7955336032.gif)
+
 
 ## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+	
+	## 安装依赖
+	npm install
+	
+	
+	## 启动项目
+	npm run dev
+	
+	## 打包发布
+	npm run build
+	

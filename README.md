@@ -10,8 +10,7 @@
 
 ## 效果
 
-![](https://im3.ezgif.com/tmp/ezgif-3-7955336032.gif)
-
+![](https://i.imgur.com/e4INeEq.gif)
 
 ## Build Setup
 	

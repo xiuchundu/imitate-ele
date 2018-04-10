@@ -8,6 +8,9 @@
 
 3、页面滚动使用better-scroll插件。
 
+## 效果
+
+![](https://i.imgur.com/nRjwMb0.gif)
 
 ## Build Setup
 	
@@ -21,8 +24,3 @@
 	## 打包发布
 	npm run build
 	
-## 效果
-
-[![](https://i.imgur.com/JEkLilE.png)](https://pan.baidu.com/s/1einB44aM6lBOnRit9r2SHQ)
-
-

@@ -12,11 +12,11 @@
 
 ![](https://i.imgur.com/nRjwMb0.gif)
 
+
 ## Build Setup
 	
 	## 安装依赖
 	npm install
-	
 	
 	## 启动项目
 	npm run dev

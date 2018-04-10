@@ -10,8 +10,7 @@
 
 ## 效果
 
-![](https://i.imgur.com/nRjwMb0.gif)
-
+![](https://i.imgur.com/Hp9ELb5.gif)
 
 ## Build Setup
 	

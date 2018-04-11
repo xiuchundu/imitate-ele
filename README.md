@@ -11,7 +11,7 @@
 ## 效果
 
 
-![](https://i.imgur.com/8M016yh.gif)
+![](http://139.199.207.232/nRjwMb0.gif)
 
 
 ## Build Setup

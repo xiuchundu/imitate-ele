@@ -10,7 +10,7 @@
 
 ## 效果
 
-![](https://github.com/capslocktao/private-project/raw/master/ele/ele_show.gif)
+![](https://github.com/xiuchundu/imitate-ele/blob/master/show.gif)
 
 ## Build Setup
 	

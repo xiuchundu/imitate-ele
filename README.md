@@ -10,9 +10,7 @@
 
 ## 效果
 
-
-![](http://139.199.207.232/nRjwMb0.gif)
-
+![](https://github.com/capslocktao/private-project/raw/master/ele/ele_show.gif)
 
 ## Build Setup
 	
@@ -25,3 +23,5 @@
 	## 打包发布
 	npm run build
 	
+
+
